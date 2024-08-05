@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.exe
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.deps.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\bin\Debug\net8.0\ChuyenDoiTienTe.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\refint\ChuyenDoiTienTe.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\ChuyenDoiTienTe.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\ChuyenDoiTienTe\obj\Debug\net8.0\ref\ChuyenDoiTienTe.dll
